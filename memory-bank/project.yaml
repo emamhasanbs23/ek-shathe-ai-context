@@ -1,0 +1,26 @@
+# Project Configuration — Ek-Shathe
+
+project_name: Ek-Shathe
+project_tagline: Doing something together
+project_type: full-stack-mobile-backend
+initialized_at: 2026-11-05T00:00:00Z
+renamed_at: 2026-11-17T00:00:00Z
+
+repos:
+  - name: ek-shathe-backend
+    path: ../ek-shathe-backend
+    type: backend-api
+    stack: Node.js, JavaScript, Express, Sequelize, PostgreSQL
+    status: active
+    notes: Learning backend (Sequelize / Day 5+)
+  - name: ek-shathe-api
+    path: ../ek-shathe-api
+    type: backend-api
+    stack: Node.js, JavaScript, Express, Sequelize, PostgreSQL, Redis, BullMQ
+    status: planned
+  - name: ek-shathe-mobile
+    path: ../ek-shathe-mobile
+    type: mobile
+    stack: Flutter
+    status: planned
+    notes: Integrate after API contracts stabilize (Week 8)

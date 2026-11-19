@@ -1,0 +1,21 @@
+{
+  "folders": [
+    {
+      "name": "Ek-Shathe-ai-context",
+      "path": "."
+    },
+    {
+      "name": "ek-shathe-backend",
+      "path": "../ek-shathe-backend"
+    },
+    {
+      "name": "ek-shathe-api",
+      "path": "../ek-shathe-api"
+    },
+    {
+      "name": "ek-shathe-mobile",
+      "path": "../ek-shathe-mobile"
+    }
+  ],
+  "settings": {}
+}

@@ -1,0 +1,20 @@
+# Cross-repo access — block secrets in sibling repos
+# See CLAUDE.md and .cursor/rules/cross-repo-access.mdc
+
+../ek-shathe-backend/**/.env*
+../ek-shathe-backend/**/*secret*
+../ek-shathe-backend/**/*credentials*
+../ek-shathe-backend/**/*.pem
+../ek-shathe-backend/**/*.key
+
+../ek-shathe-api/**/.env*
+../ek-shathe-api/**/*secret*
+../ek-shathe-api/**/*credentials*
+../ek-shathe-api/**/*.pem
+../ek-shathe-api/**/*.key
+
+../ek-shathe-mobile/**/.env*
+../ek-shathe-mobile/**/*secret*
+../ek-shathe-mobile/**/*credentials*
+../ek-shathe-mobile/**/*.pem
+../ek-shathe-mobile/**/*.key
