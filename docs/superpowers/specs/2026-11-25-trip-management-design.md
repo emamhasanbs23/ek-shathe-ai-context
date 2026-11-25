@@ -2,7 +2,7 @@
 
 **Date:** 2026-11-25  
 **Repo:** `ek-shathe-backend`  
-**Status:** Draft for review  
+**Status:** Approved — implementing  
 **Phase:** 1 of 2 (Phase 2 = expenses / balances / settlements — separate design)
 
 ## Goal
