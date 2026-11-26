@@ -2,7 +2,7 @@
 
 **Date:** 2026-11-26  
 **Repos:** `ek_shathe_mobile` (API contract from `ek-shathe-backend`)  
-**Status:** Draft for review  
+**Status:** Approved — implementing  
 **Depends on:** `docs/superpowers/specs/2026-11-25-trip-management-design.md` (Phase 1 trip APIs)
 
 ## Goal
